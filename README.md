@@ -58,7 +58,7 @@ Compartido con varios compañeros
 - Creación de un sistema de CRM diario para toma de pedidos e inclusión en la base de datos creada mediante macros.
 - Creación de un Reporte para análisis del evolutivo de ventas por año, categoría de producto, zona, tipo de pedido y segmentación de cliente, detalle do los TOP TEN, así como el análisis de la evolución de la cartera de clientes activos, nuevos y perdidos.
 
-DSL Intermediación
+### DSL Intermediación
 Transformación en Excel de las tablas planas de origen de datos de clientes, ventas, pedidos, zonas y productos para elaborar un cuadro de mando en PowerBI, mediante modelo relacional, así como las relaciones del modelo, diferentes KPI y los diferentes gráficos para analizar la evolución en los diferentes laboratorios y delegados, desde 2015 hasta 2024.
 <!--
 **davidsequeiro/davidsequeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
